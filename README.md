@@ -1,0 +1,1 @@
+Esse executavel foi desenvolvido para realizar santizações estruturais em bancos de dados FIREBIRD. Caso sua aplicação possua erros relacionados a colunas ou tabelas faltantes, basta realizar essa validação se baseando numa base .FDB em branco correta.
